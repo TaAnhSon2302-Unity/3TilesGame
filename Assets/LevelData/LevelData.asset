@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6134cd61640303447bd13d70a24708d7, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  level: 1
+  grids:
+  - {fileID: 11400000, guid: dcb29426ced110e4f9be31f26c39a109, type: 2}
+  - {fileID: 11400000, guid: bbc00705270998d44ad5299bef1f09d0, type: 2}
+  spawnableTileType: 030000000100000004000000070000000b000000
